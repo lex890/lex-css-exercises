@@ -1,0 +1,18 @@
+div {
+  background-color: red;
+  font-size: 28px;
+  display: flex;
+  justify-content: center;
+  color: aliceblue;
+}
+
+p {
+  background-color: green;
+  color: aliceblue;
+}
+
+button {
+  background-color: rgb(240, 182, 22);
+  font-size: 16px;
+  border-color: rgb(245, 245, 245);
+}
